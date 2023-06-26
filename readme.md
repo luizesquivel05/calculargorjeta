@@ -38,3 +38,46 @@ git clone https://github.com/luizesquivel05/calculargorjeta
 6. O valor total da conta, incluindo a gorjeta, será exibido na área de resultado.
 
 Agora você tem uma calculadora de gorjeta funcional! Você pode personalizar o projeto adicionando recursos adicionais, como permitir que o usuário escolha diferentes opções de porcentagem de gorjeta ou melhorar o design e a usabilidade da calculadora.
+
+-------------------------------- ENGLISH VERSION ------------------------------------------------------
+# Tip Calculator
+
+**My solution for the challenge.
+
+This is a tip calculator project where users can input the total bill amount and select the desired tip percentage. The website will automatically calculate the tip amount and display the total bill amount including the tip.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Steps for MVP Implementation
+
+1. **HTML Structure:** The HTML file should contain the basic structure of the page, including a header, a form for inputting the values, and a div for displaying the result.
+
+2. **CSS Styling:** Create a separate CSS file to style the form elements, button, and result div. Apply styles to make the calculator visually appealing.
+
+3. **JavaScript Logic:** Add a JavaScript file to implement the logic of the calculator. The `calculateTip` function should be created to calculate the tip based on the values entered by the users. Update the result div with the calculated value.
+
+4. **Testing the MVP:** Open the HTML file in a browser and test the tip calculator by entering valid values in the fields and checking if the total bill amount with the tip is displayed correctly.
+
+## How to Use the Project
+
+1. Clone the repository to your local environment:
+
+```
+git clone https://github.com/luizesquivel05/tipcalculator
+```
+
+2. Open the `index.html` file in your browser.
+
+3. Enter the total bill amount in the "Total Bill Amount" field.
+
+4. Select the desired tip percentage in the "Tip Percentage" field.
+
+5. Click the "Calculate" button.
+
+6. The total bill amount including the tip will be displayed in the result area.
+
+Now you have a functional tip calculator! You can customize the project by adding additional features such as allowing the user to choose different tip percentage options or enhancing the design and usability of the calculator.
